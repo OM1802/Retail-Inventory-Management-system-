@@ -1,1 +1,0 @@
-Design an algorithm to manage inventory for a retail store. Use data structures to store information about products, categories, suppliers, and stock levels. Implement functions to add new products, update stock levels, track sales, generate purchase orders, and manage returns.(Using Queue)
